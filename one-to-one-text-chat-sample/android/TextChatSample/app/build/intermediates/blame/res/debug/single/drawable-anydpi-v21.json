@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/end_call_button.xml",
+        "source": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/generated/res/pngs/debug/drawable-anydpi-v21/end_call_button.xml"
+    },
+    {
+        "merged": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/initiate_call_button.xml",
+        "source": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/generated/res/pngs/debug/drawable-anydpi-v21/initiate_call_button.xml"
+    },
+    {
+        "merged": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/bckg_icon.xml",
+        "source": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/generated/res/pngs/debug/drawable-anydpi-v21/bckg_icon.xml"
+    }
+]

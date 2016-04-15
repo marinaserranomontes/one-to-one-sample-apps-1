@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#043742</color>
+    <color name="alert">#fefac7</color>
+    <color name="alert_text">#ad7212</color>
+    <color name="info_text">#afafaf</color>
+    <color name="input_text">#828286</color>
+    <color name="primary">#3352abbd</color>
+    <color name="primary_dark">#5cacbd</color>
+    <color name="primary_text">#888888</color>
+    <color name="secondary">#f2f2f2</color>
+    <color name="secondary_dark">#b3b3b3</color>
+    <color name="white">#ffffff</color>
+    <dimen name="alert_height">55dp</dimen>
+    <dimen name="info_text">14sp</dimen>
+    <dimen name="initial_letter">24sp</dimen>
+    <dimen name="input_height">44dp</dimen>
+    <dimen name="input_text">16sp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="title_bar_height">40dp</dimen>
+    <dimen name="title_size">16sp</dimen>
+    <string name="app_name">textchat-component</string>
+</resources>
