@@ -1,1 +1,1 @@
-include ':app', ':opentok-text-chat-acc-pack-1.0', ':android-acc-pack'
+include ':app', ':android-acc-pack', ':opentok-text-chat-acc-pack-1.0'

@@ -4,28 +4,28 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="1460738258535433000" >
+    timestamp="1461057725244872000" >
 
     <task
         name="javac"
-        duration="587" />
+        duration="246" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="308" />
+        duration="154" />
     <task
         name="verifier"
-        duration="76" />
+        duration="79" />
 
     <artifact
-        location="/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/outputs/apk/app-debug.apk"
+        location="/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/one-to-one-text-chat-sample/android/TextChatSample/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="1460738258535433000" >
+    <build timestamp="1461057725244872000" >
         <artifact
-            location="/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/outputs/apk/app-debug.apk"
+            location="/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/one-to-one-text-chat-sample/android/TextChatSample/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

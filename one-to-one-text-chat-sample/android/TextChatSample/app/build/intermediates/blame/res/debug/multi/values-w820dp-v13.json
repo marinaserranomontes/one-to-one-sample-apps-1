@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/one-to-one-text-chat-sample/android/TextChatSample/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/one-to-one-text-chat-sample/android/TextChatSample/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

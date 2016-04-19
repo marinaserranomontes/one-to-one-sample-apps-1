@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/initiate_call_button.png",
-        "source": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/generated/res/pngs/debug/drawable-ldpi/initiate_call_button.png"
+        "merged": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/one-to-one-text-chat-sample/android/TextChatSample/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/bckg_icon.png",
+        "source": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/one-to-one-text-chat-sample/android/TextChatSample/app/build/generated/res/pngs/debug/drawable-ldpi/bckg_icon.png"
     },
     {
-        "merged": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/end_call_button.png",
-        "source": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/generated/res/pngs/debug/drawable-ldpi/end_call_button.png"
+        "merged": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/one-to-one-text-chat-sample/android/TextChatSample/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/end_call_button.png",
+        "source": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/one-to-one-text-chat-sample/android/TextChatSample/app/build/generated/res/pngs/debug/drawable-ldpi/end_call_button.png"
     },
     {
-        "merged": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/bckg_icon.png",
-        "source": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/TextChatSample/app/build/generated/res/pngs/debug/drawable-ldpi/bckg_icon.png"
+        "merged": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/one-to-one-text-chat-sample/android/TextChatSample/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/initiate_call_button.png",
+        "source": "/Users/mserrano/Documents/Opentok/solutions/samples/last/one-to-one-sample-apps/one-to-one-text-chat-sample/android/TextChatSample/app/build/generated/res/pngs/debug/drawable-ldpi/initiate_call_button.png"
     }
 ]
